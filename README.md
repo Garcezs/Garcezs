@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guilherme Garcês</h1>
-<h3 align="center">A passionate programing student from Brazil</h3>
+<h3 align="center">Aspiring programming student</h3>
 
-- 🔭 I’m a former graphic designer studying programming through [Rocketseat](https://www.rocketseat.com.br/)
+- 🔭 I’m studying front-end development through [Rocketseat](https://www.rocketseat.com.br/)
 
 - 🌱 I’m currently learning **HTML // CSS // JavaScript**
 
-- 📝 And computer science through [Universidade Estácio de Sá](https://estacio.br/)
+- 📝 And computer science through : Universidade Estácio de Sá
 
-- 📫 How to reach me : **GzSilva@proton.me**
+- 📫 How to reach me : [Email](Guilhermegarcezs@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garcezs&show_icons=true&locale=en" alt="garcezs" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garcezs&show_icons=true&locale=en&layout=compact" alt="asdf" /></p>
