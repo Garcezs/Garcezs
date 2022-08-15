@@ -7,7 +7,7 @@
 
 - 📝 And computer cience through [Universidade Estácio de Sá](https://estacio.br/)
 
-- 📫 How to reach me **Guilhermegarcezs@gmail.com**
+- 📫 How to reach me **GzSilva@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
