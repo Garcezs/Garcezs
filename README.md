@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guilherme Garcês</h1>
 <h3 align="center">Aspiring programming student</h3>
 
-- 🔭 I’m studying front-end development through [Rocketseat](https://www.rocketseat.com.br/)
+- 🔭 I’m studying front-end development through **[Rocketseat](https://www.rocketseat.com.br/)**
 
 - 🌱 I’m currently learning **HTML // CSS // JavaScript**
 
-- 📝 And computer science through : Universidade Estácio de Sá
+- 📝 And computer science through **Universidade Estácio de Sá**
 
-- 📫 How to reach me : [Email](Guilhermegarcezs@gmail.com)
+- 📫 How to reach me > **[Email](Guilhermegarcezs@gmail.com)**
 
 
 <h3 align="left">Languages and Tools:</h3>
