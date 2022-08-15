@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML // CSS // JavaScript**
 
-- 📝 And computer cience through [Universidade Estácio de Sá](https://estacio.br/)
+- 📝 And computer science through [Universidade Estácio de Sá](https://estacio.br/)
 
 - 📫 How to reach me **GzSilva@proton.me**
 
