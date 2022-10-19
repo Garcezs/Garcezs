@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying front-end development through **[Rocketseat](https://www.rocketseat.com.br/)**
 
-- 🌱 I’m currently learning **HTML // CSS // JavaScript**
+- 🌱 I’m currently learning **HTML // CSS // JavaScript // React.js**
 
 - 📝 And computer science through **Universidade Estácio de Sá**
 
