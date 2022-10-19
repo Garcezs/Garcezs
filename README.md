@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Garcês</h1>
-<h3 align="center">Aspiring programming student</h3>
+<h3 align="center">Web development Student</h3>
 
 - 🔭 I’m studying front-end development through **[Rocketseat](https://www.rocketseat.com.br/)**
 
