@@ -7,7 +7,7 @@
 
 - 📝 And computer science through **Universidade Estácio de Sá**
 
-- 📫 How to reach me > **[Email](Guilhermegarcezs@gmail.com)**
+- 📫 How to reach me > Guilhermegarcezs@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
